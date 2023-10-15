@@ -1,0 +1,12 @@
+label{
+    font-size: 0.8rem;
+}
+
+/* Tela Cadastro Conversão */
+#photoConvertido{
+    display: none;
+}
+.input-group-text{
+    width: 100%;
+}
+/* Fim */
